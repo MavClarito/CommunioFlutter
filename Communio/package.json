@@ -1,0 +1,19 @@
+{
+  "name": "communio",
+  "version": "1.0.0",
+  "description": "Communio is a Catholic prayer companion built with Flutter. It offers a daily saint reflection, searchable saint profiles, devotion scheduling, a feast-day calendar, prayer intentions, reminders, saved saints, and profile preferences.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1"
+  }
+}
